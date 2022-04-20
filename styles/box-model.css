@@ -1,12 +1,12 @@
 .box{
     border-style: solid;
-    border-color: black;
+    border-color: yellow;
     border-width: 10px;
     text-align: center;
 }
 
 .yellow-box{
-    background-color: yellow;
+    background-color: blue;
     padding: 10px;
 }
 
@@ -14,11 +14,11 @@
     /* Clock Shortcut*/
     padding: 10px 50px;
     border-style: solid;
-    border-color: black;
+    border-color: yellow;
     border-width: 10px;
     margin-left: 50px;
     margin-right: 50px;
-    background-color: red;
+    background-color: yellow;
     margin-bottom: 10px;
     margin-top: 10px;
 }
@@ -26,11 +26,11 @@
 .blue-box{
     padding: 10px;
     border-style: solid;
-    border-color: black;
+    border-color: yellow;
     border-width: 10px;
     margin-left: 25px;
     margin-right: 25px;
-    background-color: blue;
+    background-color: yellow;
     /* Clock Shortcut*/
     padding: 30px 10px 50px 20px;
 }

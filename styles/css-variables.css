@@ -1,7 +1,7 @@
 /*It is a good practice to set the variables in the pseudoclass :root*/
 
 :root{
-    --main-color: red;
+    --main-color: yellow;
 }
 
 .divs{

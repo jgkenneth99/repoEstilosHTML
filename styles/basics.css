@@ -1,6 +1,6 @@
 /*Color and Font Families*/
 .animals-color{
-    color: red;
+    color: yellow;
     font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -8,7 +8,7 @@
 /*The main font family in this case will be Roboto, and if it does not exisist it will look for Arial.*/
 h1{
     font-family: Roboto, Arial;
-    background-color: blue;
+    background-color: yellow;
 }
 
 /*Image Size*/
@@ -19,7 +19,7 @@ h1{
 
 /*Border and round corners*/
 .thick-green-border{
-    border-color: green;
+    border-color: yellow;
     border-width: 10px;
     border-style: solid;
     border-radius: 10px;
@@ -27,7 +27,7 @@ h1{
 
 /*Circle the image*/
 .circle-green-border{
-    border-color: green;
+    border-color: yellow;
     border-width: 10px;
     border-style: solid;
     border-radius: 50%;
@@ -35,7 +35,7 @@ h1{
 
 /*ID Selector*/
 #paragraph{
-    color: green;
+    color: yellow;
     
 }
 
